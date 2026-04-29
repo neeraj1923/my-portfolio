@@ -42,3 +42,9 @@ Deployment: Vercel.
 1. Clone the repository
 2. npm install
 3. Run in development mode
+
+📬 Contact
+Email: neerajchaudhary.dab@gmail.com  
+Mobile: 7082386631  
+
+Portfolio: https://my-portfolio-puce-six-87.vercel.app/
